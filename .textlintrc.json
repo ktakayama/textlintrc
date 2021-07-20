@@ -3,6 +3,18 @@
     "comments": true
   },
   "rules": {
-    "no-todo": true
+    "preset-ja-technical-writing": {
+      "sentence-length": false,
+      "max-comma": false,
+      "max-ten": false,
+      "arabic-kanji-numbers": false,
+      "ja-no-mixed-period": false,
+      "no-doubled-joshi": false,
+      "no-exclamation-question-mark": false,
+      "ja-no-weak-phrase": false,
+      "no-unmatched-pair": false
+    },
+    "prefer-tari-tari": true,
+    "@textlint-ja/textlint-rule-no-insert-dropping-sa": true
   }
 }
