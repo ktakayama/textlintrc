@@ -5,6 +5,7 @@
     "type": "git",
     "url": "git+https://github.com/ktakayama/textlintrc.git"
   },
+  "homepage": "https://github.com/ktakayama/textlintrc",
   "version": "1.0.0",
   "description": "@ktakayama/textlintrc",
   "scripts": {
