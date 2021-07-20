@@ -1,8 +1,12 @@
 {
   "private": true,
-  "name": "@textlint/editor-script-template",
+  "name": "@ktakayama/textlintrc",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ktakayama/textlintrc.git"
+  },
   "version": "1.0.0",
-  "description": "@textlint/editor script template",
+  "description": "@ktakayama/textlintrc",
   "scripts": {
     "website": "textlint-website-generator --outputDir dist"
   },
